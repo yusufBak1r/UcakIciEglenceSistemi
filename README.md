@@ -18,6 +18,11 @@ This repository contains the initial set of UML diagrams (v1) created for the [P
 
 All diagrams are included in `.png` format and are named according to their type and version, e.g., `class_diagram_v1.png`.
 
+📝 Documents
+SWOT Analysis: A SWOT analysis for the in-flight entertainment system, detailing strengths, weaknesses, opportunities, and threats. This document is provided in both written and graphical formats.
+
+Requirements Analysis: A detailed requirements analysis for the system, outlining the functional and non-functional requirements necessary for the development of the in-flight entertainment system.
+
 ## 🔄 Versioning
 
 This is the **v1** release of the UML diagrams. Future versions will be added as the project evolves.
