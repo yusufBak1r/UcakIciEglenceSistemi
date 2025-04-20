@@ -1,0 +1,23 @@
+# Derleme dosyaları
+/bin/
+/obj/
+
+# .NET kullanıcı ayar dosyaları
+*.user
+*.suo
+
+# MacOS ve Windows sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+
+# IDE klasörleri
+.vscode/
+.idea/
+
+# Geçici dosyalar
+*.tmp
+*.bak
+
