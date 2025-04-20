@@ -1,3 +1,19 @@
+# ✈️ UÇAK İÇİ EĞLENCE SİSTEMİ 
+
+This repository contains all essential assets and documentation related to our in-flight entertainment system project designed for children aged 6–9. The project includes UML diagrams, user interface designs, a detailed project presentation, and a demo video showcasing the gameplay and educational flow of the app.
+
+---
+
+## 🎯 Project Overview
+
+"Uçak İçi Eğlence Sistemi" is a mobile game designed for in-flight entertainment. Children scan a QR code to download the app and are introduced to **Angelo**, their game companion. Together, they explore cities by answering educational questions. Correct answers trigger **AR (Augmented Reality)** experiences where Angelo or a landmark of the city appears.
+
+The game aims to:
+- Make learning about Turkish cities fun and interactive
+- Provide an AR-supported educational experience
+- Offer a safe and simple interface for children
+  
+---
 # UML Diagrams – Version 1
 
 This repository contains the initial set of UML diagrams (v1) created for the [Project Name] software system. These diagrams are used to visualize different aspects of the system, including its structure, behavior, and deployment model.
@@ -22,10 +38,21 @@ All diagrams are included in `.png` format and are named according to their type
 
 This is the **v1** release of the UML diagrams. Future versions will be added as the project evolves.
 
-## 📝 Documents
-SWOT Analysis: A SWOT analysis for the in-flight entertainment system, detailing strengths, weaknesses, opportunities, and threats. This document is provided in both written and graphical formats.
+---
 
-Requirements Analysis: A detailed requirements analysis for the system, outlining the functional and non-functional requirements necessary for the development of the in-flight entertainment system.
+## 🎨 Interface Designs
+
+We have added the initial version of our mobile application’s user interface screens. These screens represent the visual layout and interactions a child will experience throughout the game.
+
+---
+
+## 🧠 Documentation
+
+- **Requirements Analysis**: Functional and non-functional requirements of the system  
+- **SWOT Analysis**: Strengths, Weaknesses, Opportunities, and Threats regarding the educational mobile game  
+- **🎞️ Project Presentation**: A detailed PowerPoint slide deck explaining the problem, goals, design, and implementation  
+- **🎬 Project Video**: A short walkthrough of the project (YouTube)  
+  👉 [Watch the video here!](https://www.youtube.com/watch?v=WXE7suBfRoY)
 
 
 Feel free to contribute or suggest improvements!
